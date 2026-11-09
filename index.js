@@ -6,6 +6,7 @@ import makeWASocket, {
   getContentType
 } from '@whiskeysockets/baileys'
 import pino from 'pino'
+import QRCode from 'qrcode'
 import fs from 'node:fs'
 import path from 'node:path'
 
