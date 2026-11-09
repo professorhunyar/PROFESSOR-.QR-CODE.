@@ -826,7 +826,7 @@ async function connect() {
   const sock = makeWASocket({
     auth: state,
     logger,
-    printQRInTerminal: false,
+    printQRInTerminal: true,
     markOnlineOnConnect: false,
     syncFullHistory: false,
     generateHighQualityLinkPreview: false
