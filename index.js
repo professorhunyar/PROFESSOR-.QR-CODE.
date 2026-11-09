@@ -654,13 +654,10 @@ async function likeStatus(sock, message) {
     console.error('❌ STATUS LIKE FAILED:', error)
   }
 }
-
-// PAIRING LOGIN SERVER
-let activeSocket = null
-let pairingCodeRequested = false
-let pairingSocketReady = false
+// QR LOGIN SERVER
+let currentQrDataUrl = null
 let pairingServer = null
-
+let qrStatus = 'waiting'
 async function generatePairingCode(phoneNumber) {
   const number = String(phoneNumber || '').replace(/\D/g, '')
 
