@@ -739,9 +739,18 @@ async function connect() {
     generateHighQualityLinkPreview: false
   })
 
-  if (!state.creds.registered) {
-    startQrWebPage()
+if (qr && !state.creds.registered) {
+  try {
+    console.log('\n📱 PROFESSOR BOT - SCAN QR CODE\n')
+    console.log(await QRCode.toString(qr, {
+      type: 'terminal',
+      small: true
+    }))
+    console.log('\nWhatsApp → Linked Devices → Link a Device\n')
+  } catch (error) {
+    console.error('QR GENERATION FAILED:', error.message)
   }
+}
 
   sock.ev.on('creds.update', saveCreds)
 sock.ev.on('contacts.upsert', contacts => {
