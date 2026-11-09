@@ -773,6 +773,18 @@ sock.ev.on('contacts.update', contacts => {
     lastDisconnect,
     qr
   }) => {
+    if (qr && !state.creds.registered) {
+  try {
+    console.log('\n📱 PROFESSOR BOT - SCAN QR CODE\n')
+    console.log(await QRCode.toString(qr, {
+      type: 'terminal',
+      small: true
+    }))
+    console.log('\nWhatsApp → Linked Devices → Link a Device\n')
+  } catch (error) {
+    console.error('QR GENERATION FAILED:', error.message)
+  }
+}
     // Baileys QR string is rendered for the browser login page.
     if (qr && !state.creds.registered) {
       try {
