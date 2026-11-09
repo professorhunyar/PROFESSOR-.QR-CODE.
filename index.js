@@ -100,7 +100,9 @@ Object.assign(settings, {
 saveSettings()
 
 const logger = pino({ level: process.env.LOG_LEVEL || 'silent' })
-
+let activeSocket = null
+let pairingSocketReady = false
+let pairingCodeRequested = false
 let onlineHeartbeat = null
 let presenceHeartbeat = null
 
