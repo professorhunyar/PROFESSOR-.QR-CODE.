@@ -82,62 +82,71 @@ Independent community project; not affiliated with or endorsed by WhatsApp or Me
 
 > Personal identity details such as CNIC, home address, and private contact information are intentionally not published in this repository.
 
-## 👨‍💻 Creator Profiles
+---
 
-### Ali Asghar — Computer Engineering Student & Developer
+<h2 align="center">👨‍💻 Meet the Developers</h2>
+<p align="center"><strong>ALI ASGHAR</strong> &nbsp;•&nbsp; <strong>MOHSIN ALI</strong><br/><sub>Professor Bot — Project Creators</sub></p>
 
-A technology-focused Computer Engineering student at **Khwaja Fareed University of Engineering & Information Technology (KFUEIT)**, Rahim Yar Khan, with practical experience in computer operations, digital services, printing, and online documentation.
+<table>
+<tr><td width="50%" align="center"><strong>ALI ASGHAR</strong><br/><sub>Developer · Computer Engineering Student</sub></td><td width="50%" align="center"><strong>MOHSIN ALI</strong><br/><sub>Co-Developer · Project Co-Creator</sub></td></tr>
+</table>
 
-#### 🎓 Education
-- **BS Computer Engineering — KFUEIT** | 2024–Present
-  - CGPA: **3.34 / 4.00**
-  - Academic focus: Computer Engineering, Computer Systems, and Programming
-- **HSSC (ICS) — Superior College** | 2022–2024
-  - Score: **64.33%**
-- **SSC (Science) — H/S 51/P** | 2020–2022
-  - Score: **71.73%**
+### 🎓 Education — Ali Asghar
 
-#### 💼 Practical Experience
-**Part-Time Computer & E-Sahulat Services Assistant — Shaheen Photostate, Rahim Yar Khan**
+| Qualification | Institute | Period | Result |
+|---|---|---|---|
+| BS Computer Engineering | KFUEIT, Rahim Yar Khan | 2024–Present | **CGPA 3.34 / 4.00** |
+| HSSC (ICS) | Superior College | 2022–2024 | 64.33% |
+| SSC (Science) | H/S 51/P | 2020–2022 | 71.73% |
 
-The supplied CV records approximately **3 years of hands-on experience** across:
-- NADRA e-Sahulat assistance and CNIC-related service processing
-- FRC, Form-B, verification, and Pak ID fee processing
-- Vehicle verification, ownership transfer, token tax, and online traffic challan payments
-- Photocopying, scanning, colour and black-and-white printing
-- CV preparation, business cards, letterheads, and basic graphic design
-- Lamination, ID card coating, binding, composing, email, and online applications
+**Academic focus:** Computer Engineering, Computer Systems, Programming, Mathematics, Physics, and Circuit Analysis.
 
-#### 🧪 Academic & Development Projects
-- **Footstep Power Generating System (2024):** Footstep-based energy harvesting and electrical generation.
-- **Touch Sensor Circuit (2024):** Touch-sensitive circuit analysis and switching implementation.
-- **Islamic Quiz Mobile Application (2025):** Interactive MCQs, navigation, and score-based assessment.
-- **Ali Electric Store Desktop Application (2025):** Product, customer, and store-operation management.
-- **Handwritten Digit Recognition Website using CNN (2026):** Image classification and digit prediction.
-- **Car Parking & EDC Design (2026):** Parking control logic and hardware interfacing.
-- **Shopify E-Commerce Website (2026):** Store layout, product listings, and online shopping functionality.
+### 💼 Professional Experience — Ali Asghar
 
-#### 🏆 Honors & Recognition
-- **Prime Minister's Youth Laptop Scheme (2026):** Selected as a laptop recipient at KFUEIT.
-- **Dean's Honor Roll — Fall 2024:** Recognition for academic performance in the Faculty of Electrical & Computer Engineering.
+**Part-Time Computer & E-Sahulat Services Assistant**  
+*Shaheen Photostate · Rahim Yar Khan · Approximately 3 years of experience reported in the CV*
 
-#### 🧰 Skills
-- Computer operations and digital services
-- NADRA e-Sahulat and online documentation
-- Printing, scanning, and document processing
-- Basic graphic design and CV preparation
-- Customer service and online application assistance
-- Programming and computer systems fundamentals
+- **NADRA & public services:** CNIC-related services, FRC, Form-B, verification, Pak ID fee processing, and online applications.
+- **Vehicle & digital services:** Vehicle verification, ownership transfers, token tax, traffic challan payments, and digital documentation.
+- **Printing & office work:** Photocopying, scanning, colour/B&W printing, composing, lamination, binding, and ID card coating.
+- **Design & customer service:** CVs, business cards, letterheads, basic graphic design, email assistance, and customer support.
 
-#### 🌐 Languages
-- Urdu — Mother tongue
-- English — Proficiency as stated in the supplied CV
+### 💻 Academic & Development Projects — Ali Asghar
 
-### Mohsin Ali — Project Co-Creator
+| Year | Project | Highlights |
+|---|---|---|
+| **2024** | Footstep Power Generating System | Energy harvesting, circuit design, and conversion of footstep energy into electrical energy |
+| **2024** | Touch Sensor Circuit | Circuit analysis, sensor response, and touch-based switching |
+| **2025** | Islamic Quiz Mobile Application | Interactive MCQs, navigation, and scoring |
+| **2025** | Ali Electric Store Desktop Application | Windows-based products, customer, and store management |
+| **2026** | Handwritten Digit Recognition Website using CNN | Web-based image classification and digit prediction |
+| **2026** | Car Parking & EDC Design | Parking control logic, system design, and hardware interfacing |
+| **2026** | Shopify E-Commerce Website | Product listings, storefront layout, and shopping functionality |
 
-Mohsin Ali is credited as a co-creator of Professor Bot. Further education, experience, projects, awards, or skills have not been added because a separate verified profile was not included in the supplied CV.
+### 🏆 Awards & Achievements — Ali Asghar
 
-> **Privacy note:** CNIC, date of birth, personal phone number, email address, and home address are intentionally excluded from this public project profile.
+- **Prime Minister's Youth Laptop Scheme (2026)** — Selected as a laptop recipient at KFUEIT.
+- **Dean's Honor Roll (Fall 2024)** — Recognized for academic performance in the Faculty of Electrical & Computer Engineering.
+
+### 🧰 Professional Skills — Ali Asghar
+
+**Computer & IT:** Computer operations · Programming fundamentals · Computer systems · Online documentation  
+**Digital Services:** NADRA e-Sahulat assistance · Government applications · Vehicle verification · Online payments  
+**Office & Design:** Printing · Scanning · CV design · Business cards · Letterheads · Basic graphic design · Binding  
+**Project Experience:** Circuit design · CNN image classification · Desktop applications · Shopify website customization  
+**Client Services:** Customer support · Email handling · Digital forms · Document processing
+
+### 🌐 Languages — Ali Asghar
+
+**Urdu:** Native &nbsp; | &nbsp; **English:** C2 levels reported in the supplied CV (not independently verified).
+
+### 🤝 Mohsin Ali — Co-Developer
+
+**Mohsin Ali** is credited as a **co-creator of Professor Bot**. His individual education, experience, projects, awards, and skills can be added when his professional details are supplied; they have not been assumed from Ali Asghar's CV.
+
+<p align="center"><strong>BUILT BY ALI ASGHAR &amp; MOHSIN ALI</strong><br/><sub>Cyber Blue Edition · Node.js · Baileys</sub></p>
+
+> 🔒 **Privacy:** CNIC, birth dates, personal phone numbers, email addresses, home addresses, and reference contact information are excluded.
 
 ## 🔎 Suggested repository topics
 `whatsapp-bot`, `baileys`, `nodejs`, `whatsapp-automation`, `status-saver`, `view-once`, `whatsapp-web`.
