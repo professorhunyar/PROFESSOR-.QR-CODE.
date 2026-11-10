@@ -74,6 +74,14 @@ Send commands from the linked account itself. Default prefix: `.`.
 ## ⚠️ Disclaimer
 Independent community project; not affiliated with or endorsed by WhatsApp or Meta. Compatibility may change as WhatsApp/Baileys evolve.
 
+## 👨‍💻 Project Credits
+
+**Created and developed by:**
+- Ali Asghar
+- Mohsin Ali
+
+> Personal identity details such as CNIC, home address, and private contact information are intentionally not published in this repository.
+
 ## 🔎 Suggested repository topics
 `whatsapp-bot`, `baileys`, `nodejs`, `whatsapp-automation`, `status-saver`, `view-once`, `whatsapp-web`.
 
